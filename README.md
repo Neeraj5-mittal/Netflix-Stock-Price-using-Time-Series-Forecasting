@@ -84,8 +84,7 @@ Here's what a forecast plot might look like:
 
 ### ARIMA Forecast Plot
 
-![ARIMA Forecast](<img width="1603" height="1237" alt="forecast_plot1" src="https://github.com/user-attachments/assets/7ff4bb61-7ecb-4c56-ad81-86dc029de651" />
-)
+![ARIMA Forecast](https://github.com/Neeraj5-mittal/Netflix-Stock-Price-using-Time-Series-Forecasting/blob/main/forecast_plot1.png?raw=true)
 
 ### Rolling Mean and Std Visualization
 
