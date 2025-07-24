@@ -88,8 +88,7 @@ Here's what a forecast plot might look like:
 
 ### Rolling Mean and Std Visualization
 
-![Rolling Stats](<img width="1638" height="1253" alt="forecast_plot2" src="https://github.com/user-attachments/assets/d9522d5f-d255-4e1e-803f-dd809a62d34a" />
-)
+![Rolling Stats](https://github.com/Neeraj5-mittal/Netflix-Stock-Price-using-Time-Series-Forecasting/blob/main/forecast_plot2.png?raw=true)
 
 ## 📈 Forecast Visualizations
 
@@ -97,13 +96,11 @@ Here are some sample outputs from the time series modeling process:
 
 ### Original + Rolling Mean & Std
 
-![Rolling Statistics](<img width="1638" height="1253" alt="forecast_plot2" src="https://github.com/user-attachments/assets/f20da83c-c17b-4453-8611-de1d7b88ea1e" />
-)
+![Rolling Statistics](https://github.com/Neeraj5-mittal/Netflix-Stock-Price-using-Time-Series-Forecasting/blob/main/forecast_plot2.png?raw=true)
 
 ### Differenced Series with Forecast
 
-![ARIMA Forecast](<img width="1603" height="1237" alt="forecast_plot1" src="https://github.com/user-attachments/assets/c1a57870-738b-4ffc-a756-b16ac77bde2a" />
-)
+![ARIMA Forecast](https://github.com/Neeraj5-mittal/Netflix-Stock-Price-using-Time-Series-Forecasting/blob/main/forecast_plot1.png?raw=true)
 
 ### Final Forecasted Prices (Transformed Back)
 
