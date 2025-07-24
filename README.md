@@ -1,4 +1,5 @@
-📊 Netflix Stock Price Forecasting using Time Series (ARIMA & SARIMA)
+### 📊 Netflix Stock Price Forecasting using Time Series (ARIMA & SARIMA)
+
 🔍 Overview
 This project focuses on forecasting Netflix stock prices using classical time series models such as ARIMA and SARIMA. The goal is to understand historical patterns, ensure stationarity, and predict future trends with visual accuracy.
 
