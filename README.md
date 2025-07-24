@@ -88,7 +88,8 @@ Here's what a forecast plot might look like:
 
 ### Rolling Mean and Std Visualization
 
-![Rolling Stats](images/forecast_plot2.png)
+![Rolling Stats](<img width="1603" height="1237" alt="forecast_plot1" src="https://github.com/user-attachments/assets/bc434b16-3ab5-41fb-858c-bd92faaf18c0" />
+)
 
 ## 📈 Forecast Visualizations
 
